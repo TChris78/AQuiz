@@ -6,4 +6,13 @@
     android:layout_height="match_parent"
     tools:context="com.gtect.audioquiz.MainActivity">
 
+    <EditText
+        android:id="@+id/coordinates"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:inputType="text"
+        tools:layout_editor_absoluteX="85dp"
+        tools:layout_editor_absoluteY="61dp" />
+
 </android.support.constraint.ConstraintLayout>
